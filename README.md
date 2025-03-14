@@ -45,29 +45,29 @@ This dashboard can be used for various purposes, including:
 ## Dashboard Sections  
 
 ### Home Screen  
-The Home Screen provides an overview of key metrics and quick access to other sections of the dashboard.  
+
 ![Home Screen](Dashboard%20Screenshots/Home%20Screen.png)  
 
 ### Period Analysis  
-This section allows you to analyze sales data over specific time periods (e.g., months, quarters, or years).  
+
 ![Period Analysis](Dashboard%20Screenshots/Period%20Analysis.png)  
 
 ### Segment Analysis  
-Explore sales performance across different business segments.  
+
 ![Segment Analysis](Dashboard%20Screenshots/Segment%20Analysis.png)  
 
 ### Country Analysis  
-View sales and profit breakdowns by country.  
+
 ![Country Analysis](Dashboard%20Screenshots/Country%20Analysis.png)  
 
 ### Product Analysis  
-Analyze the performance of individual products.  
+
 ![Product Analysis](Dashboard%20Screenshots/Product%20Analysis.png)  
 
 ### Help Screen  
-Access guidance and support for using the dashboard.  
+
 ![Help Screen](Dashboard%20Screenshots/Help%20Screen.png)  
 
 ### Export Screen  
-Export data for further analysis or reporting.  
+
 ![Export Screen](Dashboard%20Screenshots/Export%20Screen.png)  
